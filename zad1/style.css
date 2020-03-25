@@ -1,23 +1,10 @@
-h1{
-font-size:40px;
-text-align:center;
-margin-top:auto;
-margin-right:190px;
-margin-bottom:25px;
-margin-left:190px;
-}
 
-h4{
-text-align:right;
-text-align:20px;
-margin-top:50px;
-margin-right:190px;
-margin-bottom:50px;
-margin-left:auto;
-}
+
+
 
 #main{
 width:1200px;
+  margin: 0auto;
 }
 
 #one{
@@ -73,4 +60,20 @@ margin-top:15px;
 margin-right:180px;
 margin-bottom:15px;
 margin-left:200px;
+}
+h1{
+font-size:40px;
+text-align:center;
+margin-top:auto;
+margin-right:190px;
+margin-bottom:25px;
+margin-left:190px;
+}
+h4{
+text-align:right;
+text-align:20px;
+margin-top:50px;
+margin-right:190px;
+margin-bottom:50px;
+margin-left:auto;
 }
